@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamogelo Mary Mashike</h1>
-<h3 align="center">AWS Cloud Practitioner | Junior Developer  👩‍💻</h3>
+<h3 align="center">AWS Cloud Practitioner | Junior Software Developer  👩‍💻</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamogelo98" alt="kamogelo98" /></a> </p>
 
