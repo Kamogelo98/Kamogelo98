@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kamogelo Mary Mashike</h1>
 <h3 align="center">AWS Cloud Practitioner | Junior Software Developer  👩‍💻</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamogelo98" alt="kamogelo98" /></a> </p>
+
 
 - 👨‍💻 portfolio link [https://incomparable-dieffenbachia-a79cb7.netlify.app/](https://incomparable-dieffenbachia-a79cb7.netlify.app/)
 
